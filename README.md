@@ -36,9 +36,9 @@
 
 ### 🔥 GitHub Streaks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxm337" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxm337"/>
+</div>
 
 ---
 
