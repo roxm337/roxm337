@@ -1,7 +1,7 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+IMAD+EL+KADI!;Flutter+%7C+Laravel+%7C+Cybersecurity+Enthusiast;Building+cool+things+with+code..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+IMAD+EL+KADI!;+Flutter+%7C+Laravel+%7C+Cybersecurity+Enthusiast;Building+cool+things+with+code..." alt="Typing SVG" />
 
-<!-- Intro -->
+
 <h3 align="center">🚀 Passionate Developer | Flutter & Python | Penetration Testing Learner</h3>
 
 ---
