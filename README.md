@@ -49,6 +49,7 @@
 - 📘 Docker Deep Dive, CVE enumeration, Flutter architecture patterns
 - 📚 Planning to explore: `Kubernetes`, `NestJS`, `AI for Security`
 <div align="center">
+  <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="200" />
   <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="200" />
 </div>
 ---
