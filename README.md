@@ -49,7 +49,7 @@
 - 📘 Docker Deep Dive, CVE enumeration, Flutter architecture patterns
 - 📚 Planning to explore: `Kubernetes`, `NestJS`, `AI for Security`
 
-### Badges
+### Digital Badges
 <div align="center">
   <a href="https://www.credly.com/badges/e9027a87-1cdc-4bd5-af71-ce4b9aae08eb" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="200" />
