@@ -51,16 +51,17 @@
 
 ### Badges
 <div align="center">
-  <a href="https://www.credly.com/badges/e9027a87-1cdc-4bd5-af71-ce4b9aae08eb" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="200" />
+  <a href="https://www.credly.com/badges/e9027a87-1cdc-4bd5-af71-ce4b9aae08eb" target="_blank" style="margin: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="200" style="margin: 10px;" />
   </a>
-  <a href="https://www.credly.com/badges/88055b15-7a1a-40e2-99a2-507bd76339ef" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="200" />
+  <a href="https://www.credly.com/badges/88055b15-7a1a-40e2-99a2-507bd76339ef" target="_blank" style="margin: 10px;">
+    <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="200" style="margin: 10px;" />
   </a>
-   <a href="https://www.credly.com/badges/70793a76-0fac-4efb-b25b-7c3e68a04006/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="200" />
+  <a href="https://www.credly.com/badges/70793a76-0fac-4efb-b25b-7c3e68a04006/public_url" target="_blank" style="margin: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="200" style="margin: 10px;" />
   </a>
 </div>
+
 ---
 
 # Portfolio
