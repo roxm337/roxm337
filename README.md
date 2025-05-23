@@ -65,11 +65,6 @@
 </div>
 
 
-# Portfolio
-
-Check out my portfolio [here](https://imad-elkadi-portfolio.web.app)!
-
----
 
 ### 💡 Quote
 
