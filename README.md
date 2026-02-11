@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Engineer</strong> · React / Next.js · Flutter · Security-Aware
+  <strong>Full-Stack Developer</strong> · React / Next.js · Flutter · Security-Aware
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@ I’m a **Full-Stack Developer** who builds **real-world, production-ready appli
 
 - 🚀 Building full-stack products for clients & startups  
 - 🧠 Deepening expertise in **Next.js, TypeScript, PostgreSQL & DevOps**  
-- 🔐 Security-aware mindset (pentesting fundamentals)  
+- 🔐 Security-aware mindset (Penetration Testing)  
 - 🧩 Comfortable across **frontend, backend, and infrastructure**  
-- 🎯 **2025 goal:** Senior-level full-stack engineer  
+- 🎯 **2025 goal:** +mid-level full-stack  
 
 > *I like systems that scale, code that’s clean, and deployments that don’t break at 2am.*
 
@@ -32,16 +32,16 @@ I’m a **Full-Stack Developer** who builds **real-world, production-ready appli
 ## 🧩 Tech Stack
 
 ### 🎨 Frontend
+- **Flutter (Mobile & Web)**
 - **React.js**
 - **Next.js (App Router, Server Components)**
 - **TypeScript**
 - Tailwind CSS · ShadCN UI
-- Flutter (Mobile & Web)
 
 ### ⚙️ Backend
+- **FastAPI**
 - **Node.js**
 - **Laravel**
-- **FastAPI**
 - REST APIs · Auth · RBAC
 
 ### 🗄️ Databases
