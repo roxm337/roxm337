@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-🚀 Full-Stack Developer | React / Next.js | Flutter | Cybersecurity Learner
+🚀 Full-Stack Developer | React / Next.js | Flutter | Cybersecurity Enthusiast
 </h3>
 
 ---
@@ -33,9 +33,9 @@
 - Flutter (Mobile & Web)
 
 ### ⚙️ Backend
+- **FastAPI**
 - **Node.js**
 - **Laravel**
-- **FastAPI**
 - REST APIs, Authentication, RBAC
 
 ### 🗄️ Databases
