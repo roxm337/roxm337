@@ -21,7 +21,7 @@ I’m a **Full-Stack Developer** who builds **real-world, production-ready appli
 
 - 🚀 Building full-stack products for clients & startups  
 - 🧠 Deepening expertise in **Next.js, TypeScript, PostgreSQL & DevOps**  
-- 🔐 Security-aware mindset (Penetration Testing)  
+- 🔐 Security-aware mindset (Defensive programming, Penetration Testing)  
 - 🧩 Comfortable across **frontend, backend, and infrastructure**  
 - 🎯 **2025 goal:** +mid-level full-stack  
 
