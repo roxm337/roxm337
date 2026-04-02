@@ -148,7 +148,7 @@ const imad = {
 | 🕸️ Agentic AI | Multi-agent workflows with LangGraph | 🔥 Active |
 | ⚡ Backend | FastAPI at scale — complex architectures | 🔥 Active |
 | 🧠 LLM Apps | AI/LLM application design patterns | 🔥 Active |
-| 🔐 Security | HTB CBBH / Pentesting | 🔄 Ongoing |
+| 🔐 Security | CPTS / Pentesting | 🔄 Ongoing |
 
 </div>
 
