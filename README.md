@@ -143,12 +143,14 @@ const imad = {
 <div align="center">
 
 ```python
+
 current_focus = {
     "building":   ["Gen AI Apps", "RAG Pipelines", "Agentic AI Systems"],
     "frameworks": ["LangChain", "LangGraph", "FastAPI (advanced)"],
     "deep_dive":  ["LLM Application Architecture", "Multi-Agent Workflows"],
     "goal":       "Ship production-grade AI-powered products",
 }
+
 ```
 
 | Layer | What I'm Building / Learning | Status |
