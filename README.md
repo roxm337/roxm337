@@ -22,7 +22,7 @@
 
 ```ts
 const imad = {
-  role:       "Full-Stack Developer → AI/LLM Engineer",
+  role:       "Full-Stack Developer → AI/LLM Developer",
   location:   "Morocco 🇲🇦",
   focus:      ["Gen AI Apps", "RAG Pipelines", "Agentic AI", "Secure APIs"],
   stack:      {
